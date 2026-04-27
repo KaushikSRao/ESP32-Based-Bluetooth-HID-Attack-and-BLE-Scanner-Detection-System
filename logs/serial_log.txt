@@ -1,0 +1,276 @@
+2025-11-21T14:33:44.323469 - Connected to COM11
+2025-11-21T14:33:44.430634 - ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13924
+ho 0 tail 12 room 4
+load:0x40080400,len:3600
+entry 0x400805f0
+
+2025-11-21T14:33:45.889761 - 🔄 Type 'help' to see available commands.
+
+2025-11-21T14:33:49.901714 - > help
+2025-11-21T14:33:49.932915 - 🆘 Available Commands:
+----------------------------------
+▶ notepad         → Open Notepad
+▶ youtube <search> → Open YouTube
+▶ google <search>  → Open Google
+▶ whatsapp <no> <msg> → Send m
+2025-11-21T14:33:50.043030 - essage to WhatsApp
+▶ wp-ss <no>      → Send Screenshot to WhatsApp
+▶ cmd             → Open Command Prompt
+▶ shutdown        → Shutdown PC in 5 sec
+▶ run             → Open Run Dialog (Win + R)
+▶ url <Command>   → Open custom Command in Run Box
+▶ lock            → Lock the PC
+▶ close           → Close current app
+▶ ENTER           → Press Enter key
+▶ screenshot      → Take screenshot
+▶ CTRL+<key>      → CTRL+A, CTRL+C, CTRL+V, e.g.
+▶ WIN / LEFT / RIGHT / UP / DOWN → Arrow keys
+▶ WiFi            → Dump Wifi Password Target
+▶ Fake            → Fake Update Show Target
+▶ Spam            → Spam Box Show Target
+▶ help            → Show this help list
+▶ About           → Show creator info
+----------------------------------
+
+2025-11-21T14:34:01.769753 - > Wifi
+2025-11-21T14:34:01.832754 - 🕵️ Running advanced Wi-Fi stealer silently...
+
+2025-11-21T14:35:04.863464 - Connected to COM11
+2025-11-21T14:35:10.154217 - Connected to COM11
+2025-11-21T14:35:13.764368 - > help
+2025-11-21T14:35:14.271014 - 🆘 Available Commands:
+----------------------------------
+▶ notepad         → Open Notepad
+▶ youtube <search> → Open YouTube
+▶ google <search>  → Open Google
+▶ whatsapp <no> <msg> → Send message to WhatsApp
+▶ wp-ss <no>      → Send Screenshot to WhatsApp
+▶ cmd             → Open Command Prompt
+▶ shutdown        → Shutdown PC in 5 sec
+▶ run             → Open Run Dialog (Win + R)
+▶ url <Command>   → Open custom Command in Run Box
+▶ lock            → Lock the PC
+▶ close           → Close current app
+▶ ENTER           → Press Enter key
+▶ screenshot      → Take screenshot
+▶ CTRL+<key>      → CTRL+A, CTRL+C, CTRL+V, e.g.
+▶ WIN / LEFT / RIGHT / UP / DOWN → Arrow keys
+▶ WiFi            → Dump Wifi Password Target
+▶ Fake            → Fake Update Show Target
+▶ Spam            → Spam Box Show Target
+▶ help            → Show this help list
+▶ About           → Show creator info
+----------------------------------
+
+2025-11-21T14:35:17.714301 - > Wifi
+2025-11-21T14:35:17.815566 - 🕵️ Running advanced Wi-Fi stealer silently...
+
+2025-11-21T14:37:09.122078 - Connected to COM11
+2025-11-21T14:37:09.223119 - ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13924
+ho 0 tail 12 room 4
+load:0x40080400,len:3600
+entry 0x400805f0
+
+2025-11-21T14:37:10.704435 - 🔄 Type 'help' to see available commands.
+
+2025-11-21T14:37:13.973330 - > help
+2025-11-21T14:37:13.977849 - 🆘 Available Commands:
+-----------------
+2025-11-21T14:37:14.102728 - -----------------
+▶ notepad         → Open Notepad
+▶ youtube <search> → Open YouTube
+▶ google <search>  → Open Google
+▶ whatsapp <no> <msg> → Send message to WhatsApp
+▶ wp-ss <no>      → Send Screenshot to WhatsApp
+▶ cmd             → Open Command Prompt
+▶ shutdown        → Shutdown PC in 5 sec
+▶ run             → Open Run Dialog (Win + R)
+▶ url <Command>   → Open custom Command in Run Box
+▶ lock            → Lock the PC
+▶ close           → Close current app
+▶ ENTER           → Press Enter key
+▶ screenshot      → Take screenshot
+▶ CTRL+<key>      → CTRL+A, CTRL+C, CTRL+V, e.g.
+▶ WIN / LEFT / RIGHT / UP / DOWN → Arrow keys
+▶ WiFi            → Dump Wifi Password Target
+▶ Fake            → Fake Update Show Target
+▶ Spam            → Spam Box Show Target
+▶ help            → Show this help list
+▶ About           → Show creator info
+----------------------------------
+
+2025-11-21T14:37:17.720332 - > Wifi
+2025-11-21T14:37:17.816826 - 🕵️ Running advanced Wi-Fi stealer silently...
+
+2025-11-21T14:39:04.149818 - > youtube https://www.youtube.com/watch?v=ALtqMsd_7Kw
+2025-11-21T14:40:09.174305 - > whatsapp 9740261906 hi
+2025-11-21T14:40:54.004557 - > whatsapp 9740261906 hi
+2025-11-21T14:41:26.638302 - > close
+2025-11-21T14:41:31.670215 - > lock
+2025-11-21T14:44:22.922848 - Connected to COM11
+2025-11-21T14:44:23.029550 - ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13924
+ho 0 tail 12 room 4
+load:0x40080400,len:3600
+entry 0x400805f0
+
+2025-11-21T14:44:24.489072 - 🔄 Type 'help' to see available commands.
+
+2025-11-21T14:44:26.164829 - > help
+2025-11-21T14:44:26.227872 - 🆘 Available Commands:
+----------------------------------
+▶ notepad         → Open Notepad
+▶ youtube <search> → Open YouTube
+▶ google <search>  → Open Google
+▶ whatsapp <no> <msg> → Send message to WhatsApp
+▶ wp-ss <no>      → Send Screenshot to WhatsApp
+▶ cmd             → Open Command Prompt
+▶ shutdown        → Shutdown PC in 5 sec
+▶ run             → Open Run Dialog (Win + R)
+▶ url <Command>   → Open custom Command in Run Box
+▶ lock            → Lock the PC
+▶ close           → Close current app
+▶ ENTER           → Press Enter key
+▶ screenshot      → Take screenshot
+▶ CTRL+<key>      → CTRL+A, CTRL+C, CTRL+V, e.g.
+▶ 
+2025-11-21T14:44:26.339335 - WIN / LEFT / RIGHT / UP / DOWN → Arrow keys
+▶ WiFi            → Dump Wifi Password Target
+▶ Fake            → Fake Update Show Target
+▶ Spam            → Spam Box Show Target
+▶ help            → Show this help list
+▶ About           → Show creator info
+----------------------------------
+
+2025-11-21T14:44:34.068242 - > spam
+2025-11-21T14:44:53.577424 - > you a nigga
+2025-11-21T14:44:53.656392 - ⌨ Typing plain text: you a nigga
+
+2025-11-21T14:45:08.614662 - > fake
+2025-11-21T14:45:40.125111 - > close
+2025-11-21T14:45:50.196375 - > close
+2025-11-21T14:45:53.493683 - > fake
+2025-11-21T14:46:08.966037 - > fake
+2025-11-21T14:46:33.525928 - > fake
+2025-11-21T14:46:55.712840 - > screenshot
+2025-11-21T14:47:29.376870 - > wp-ss <9740261906>
+2025-11-21T14:48:37.020830 - > wp--ss
+2025-11-21T14:48:37.020830 - ⌨ Typing plain text: wp
+2025-11-21T14:48:37.131324 - --ss
+
+2025-11-21T15:04:27.231808 - Connected to COM11
+2025-11-21T15:04:27.342520 - ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13924
+ho 0 tail 12 room 4
+load:0x40080400,len:3600
+entry 0x400805f0
+
+2025-11-21T15:04:28.982701 - 🔄 Type 'help' to see available commands.
+
+2025-11-21T15:04:33.128909 - > help
+2025-11-21T15:04:33.187213 - 🆘 Available Commands:
+----------------------------------
+▶ notepad         → Open Notepad
+▶ youtube <search> → Open YouTube
+▶ google <search>  → Open Google
+▶ whatsapp <no> <msg> → Send message to WhatsApp
+▶ wp-ss <no>      → Send Screenshot to WhatsApp
+▶ cmd             → Open Command Prompt
+▶ shutdown        → Shutdown PC in 5 sec
+▶ run             → Open Run Dialog (Win + R)
+▶ url <Command>   → Open custom Command in Run Box
+▶ lock            → Lock the PC
+▶ close           → Close current app
+▶ ENTER           → Press Enter key
+▶ screenshot      → Take screenshot
+▶ 
+2025-11-21T15:04:33.297311 - CTRL+<key>      → CTRL+A, CTRL+C, CTRL+V, e.g.
+▶ WIN / LEFT / RIGHT / UP / DOWN → Arrow keys
+▶ WiFi            → Dump Wifi Password Target
+▶ Fake            → Fake Update Show Target
+▶ Spam            → Spam Box Show Target
+▶ help            → Show this help list
+▶ About           → Show creator info
+----------------------------------
+
+2025-11-21T15:04:40.993374 - > spam
+2025-11-21T15:04:58.996001 - > Wifi
+2025-11-21T15:04:59.106133 - 🕵️ Running advanced Wi-Fi stealer silently...
+
+2025-11-21T15:07:29.431341 - > youtube https://www.youtube.com/watch?v=ALtqMsd_7Kw
+2025-11-21T15:07:58.190813 - > whatsapp 9740261906 hi
+2025-11-21T15:08:52.199241 - > lock
+2025-11-21T15:09:24.874413 - > fake
+2025-11-21T16:39:18.506525 - Connected to COM11
+2025-11-21T16:39:18.616416 - ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13924
+ho 0 tail 12 room 4
+load:0x40080400,len:3600
+entry 0x400805f0
+
+2025-11-21T16:39:20.029585 - 🔄 Type 'help' to see available commands.
+
+2025-11-21T16:39:21.875723 - > help
+2025-11-21T16:39:21.893579 - 🆘 Available Commands:
+----------------------------------
+▶ notepad         → Open Notepad
+▶ youtube <search> → Open YouTube
+▶ google <search>  → Open Google
+▶ w
+2025-11-21T16:39:22.002035 - hatsapp <no> <msg> → Send message to WhatsApp
+▶ wp-ss <no>      → Send Screenshot to WhatsApp
+▶ cmd             → Open Command Prompt
+▶ shutdown        → Shutdown PC in 5 sec
+▶ run             → Open Run Dialog (Win + R)
+▶ url <Command>   → Open custom Command in Run Box
+▶ lock            → Lock the PC
+▶ close           → Close current app
+▶ ENTER           → Press Enter key
+▶ screenshot      → Take screenshot
+▶ CTRL+<key>      → CTRL+A, CTRL+C, CTRL+V, e.g.
+▶ WIN / LEFT / RIGHT / UP / DOWN → Arrow keys
+▶ WiFi            → Dump Wifi Password Target
+▶ Fake            → Fake Update Show Target
+▶ Spam            → Spam Box Show Target
+▶ help            → Show this help list
+▶ About           → Show creator info
+----------------------------------
+
+2025-11-21T16:39:33.701557 - > Wifi
+2025-11-21T16:39:33.728124 - 🕵️ Running advanced Wi-Fi stealer silently...
+
+2025-11-21T16:39:40.633678 - > 
+2025-11-21T16:42:04.807736 - > youtube https://www.youtube.com/watch?v=ALtqMsd_7Kw
+2025-11-21T16:42:44.770761 - > lock
