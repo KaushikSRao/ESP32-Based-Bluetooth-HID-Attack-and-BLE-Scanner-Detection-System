@@ -25,16 +25,19 @@ This project demonstrates Bluetooth security vulnerabilities by implementing bot
 ## 🌐 Network Design
 The system is divided into two modules. The attack module uses ESP32 to emulate a Bluetooth keyboard and execute payloads on a target device. The detection module scans nearby BLE devices, processes device information, and displays the results on a web dashboard.
 
-## 📷 Network Diagram
-<img width="1898" height="813" alt="image" src="https://github.com/user-attachments/assets/d9ccdf6c-ef9e-4b80-848a-bb9c3e78f0e8" />
-
-
 ## ▶️ How to Run
-1. Open Cisco Packet Tracer  
-2. Load the `.pkt` file  
-3. Run simulation and test connectivity  
+Attack Module
+1. Upload code to ESP32 using Arduino IDE 
+2. Pair ESP32 with target device via Bluetooth
+3. Send commands through Serial Monitor
+
+Detection Module
+1. Install required libraries
+2. Run Python scanner script
+3. Open Flask dashboard
+4. Monitor detected devices
 
 ## 📌 Future Improvements
-- VLAN implementation  
-- Wireless network integration  
-- Load balancing  
+- Machine learning-based detection
+- Cross-platform support (macOS, Linux)
+- Improved classification accuracy
